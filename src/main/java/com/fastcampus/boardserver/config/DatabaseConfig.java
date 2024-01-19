@@ -16,7 +16,6 @@ public class DatabaseConfig {
         return DataSourceBuilder.create().build();
     }
 
-
 }
 
 

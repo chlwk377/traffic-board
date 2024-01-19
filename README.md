@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Board-Server
 [패스트캠퍼스] 대용량 트래픽 게시판 프로젝트
 
@@ -66,3 +67,7 @@
 
 
 
+=======
+# traffic-board
+트레픽  board
+>>>>>>> 9597c3686c4a1e0cb6026d4bd5c7dbf83cbaada0
